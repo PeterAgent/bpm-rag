@@ -44,7 +44,7 @@ logs/
 build/
 dist/
 *.egg-info/
-
+*.ini
 # ==============================
 # 8. macOS 系统文件
 # ==============================
@@ -58,7 +58,7 @@ data/processed/
 
 # 向量数据库本地存储
 chroma_db/
-vector_store/
+vector_store/git
 
 # 本地模型权重
 *.pt
